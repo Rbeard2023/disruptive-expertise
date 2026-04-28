@@ -30,7 +30,7 @@ But it was also slow, expensive, and inevitably incomplete. A new edition took y
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/books-britannica.jpeg"
+  image-path="images/17wmt-superJumbo-v2.jpg"
   image-position="right"
   image-width="46%"
   caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
