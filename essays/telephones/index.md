@@ -1,11 +1,11 @@
 ---
-title: "Wikipedia and the Wisdom of the Crowd"
+title: "The Invention of Mobile Phones Changed Expertise"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
 summary: When moblie phones came out it changed the way people did things. It made a big change on how someone can live their everyday life.
-header-title: Wikipedia and the Wisdom of the Crowd
-header-subtitle: How a Free Encyclopedia Disrupted Expertise
+header-title: The Invention of Mobile Phones 
+header-subtitle: How the mobile phones changed expertise 
 header-position: center
 ---
 
