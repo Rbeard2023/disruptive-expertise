@@ -23,9 +23,8 @@ Since the first handheld mobile phone call was made in 1973 by Martin Cooper, mo
 {% capture britannica_text %}
 To understand why Wikipedia was so threatening, you have to understand what it replaced.
 
-The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
-
-But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
+In the early years, mobile phones were large, expensive, and limited in function. They were primarily used by business professionals who needed to communicate while traveling. Despite their limitations, these early devices introduced a major shift: communication was no longer tied to a specific place. Before mobile phones, people relied on landlines, which required them to be physically present in a particular location.
+The introduction of mobile phones removed this barrier, allowing individuals to stay connected regardless of where they were. This mobility began to reshape professional expectations. Workers were expected to be more accessible, responsive, and flexible. As a result, expertise began to include the ability to manage communication efficiently and respond quickly to changing situations.
 
 {% endcapture %}
 
