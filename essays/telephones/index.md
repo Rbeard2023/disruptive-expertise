@@ -74,9 +74,12 @@ These innovations turned mobile phones into portable computers, capable of perfo
 
 
 
-## The Famous Test
+## Access to Information and the Redefinition of Knowledge
 
-In December 2005, the science journal *Nature* published a brief but explosive study.
+One of the most significant changes brought about by smartphones is the way people access information. In the past, expertise often depended on memorization and formal education. Experts were individuals who had spent years studying a subject and could recall information without assistance.
+
+However, mobile phones have made it possible to access vast amounts of information instantly. With just a few taps, users can search for answers, watch tutorials, or read articles on almost any topic. This has shifted the focus of expertise from memorization to information management. Being an expert now often means knowing how to find reliable information, evaluate its accuracy, and apply it effectively.
+.
 
 {% include images/jumbotron.html
   image-path="images/head-to-head.webp"
@@ -86,11 +89,7 @@ In December 2005, the science journal *Nature* published a brief but explosive s
   text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
 %}
 
-The *Nature* study, led by journalist Jim Giles, asked subject-matter experts to evaluate matched articles from Wikipedia and Britannica without knowing which was which. The results were striking: Wikipedia had an average of four errors per article; Britannica had three. Both contained "serious errors," according to the reviewers. The gap in reliability was far smaller than the gap in cultural prestige.
 
-Britannica's response was furious. The company published a lengthy rebuttal disputing the methodology. But the study had landed a lasting blow to the assumption that formal editorial structures were necessary for reliable information. Tom Nichols, writing more than a decade later in *The Death of Expertise* (2017), worried that findings like these had given "ordinary citizens" permission to distrust expertise altogether—that the lesson taken from Wikipedia was not "crowd review can sometimes approximate expert review" but "experts aren't necessary."
-
-His concern reflected something real: the disruption Wikipedia represented was not merely institutional. It was epistemological.
 
 
 ## What Critics Got Right
