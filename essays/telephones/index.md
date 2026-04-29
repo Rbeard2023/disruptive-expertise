@@ -33,7 +33,7 @@ The introduction of mobile phones removed this barrier, allowing individuals to 
   image-path="images/17wmt-superJumbo-v2.jpg"
   image-position="right"
   image-width="46%"
-  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  caption="The first mobile phone that was created, blocky,large, and too much."
   text=britannica_text
 %}
 
