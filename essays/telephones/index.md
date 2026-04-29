@@ -51,7 +51,7 @@ The introduction of mobile phones removed this barrier, allowing individuals to 
 
 
 {% include scrollybox/bg.html
-  image-path="images/market-view.jpg"
+  image-path="images/download.jpeg"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
