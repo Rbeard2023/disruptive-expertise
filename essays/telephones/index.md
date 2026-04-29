@@ -9,7 +9,7 @@ header-subtitle: How the mobile phones changed expertise
 header-position: center
 ---
 
-# Wikipedia and the Wisdom of the Crowd
+# Introduction
 
 On January 15, 2001, a website went live that contained almost nothing—a handful of stub articles, a blank editing interface, and a deceptively simple premise: anyone could write it. No credentials required. No editorial gatekeeping. No payment. Just a web browser and an opinion.
 
@@ -18,7 +18,7 @@ Within three years, Wikipedia had more articles than the *Encyclopaedia Britanni
 The story of Wikipedia is not really a story about technology. It is a story about who gets to be an expert, who decides what counts as reliable knowledge, and what happens when those gatekeeping functions are suddenly thrown open to everyone.
 
 
-## The World Wikipedia Disrupted
+## Early Mobile Phones and the Shift in Communication
 
 {% capture britannica_text %}
 To understand why Wikipedia was so threatening, you have to understand what it replaced.
