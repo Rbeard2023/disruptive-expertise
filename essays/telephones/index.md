@@ -56,15 +56,12 @@ The introduction of mobile phones removed this barrier, allowing individuals to 
   below-box-space="80vh"
   box-align="right"
   box-content="
-## The Wiki Model: A Different Theory of Knowledge
+## Widespread Adoption and Changing Social Skills
 
-Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
+As mobile phones became smaller, more affordable, and more widely available, their impact spread beyond business professionals to the general public. This widespread adoption changed how people interacted with one another. Communication became faster and more convenient, with text messaging and later instant messaging replacing many face-to-face conversations.
 
-Wikipedia inverted this. It assumed knowledge could flow *upward* and *sideways*—from anyone who knew something to everyone who needed it. Errors would be caught not by editors in advance, but by readers and other contributors over time.
+This shift influenced social skills and communication styles, requiring individuals to adapt to new forms of interaction. Expertise in communication now included the ability to convey ideas clearly through short messages, interpret tone without visual cues, and maintain relationships through digital platforms.
 
-This is sometimes called the 'bazaar' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
-
-The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
 "
 %}
 
