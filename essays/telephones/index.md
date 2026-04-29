@@ -144,17 +144,12 @@ Expertise is no longer confined to a specific location or community; it is part 
 
 
 
-## Connection to AI
+## Challenges: Overreliance and Distraction
 
-The debates about Wikipedia in the 2000s and 2010s sound strikingly familiar to debates about AI today.
+Despite these benefits, the impact of mobile phones on expertise is not entirely positive. The constant availability of information can lead to overreliance on technology. Instead of remembering important details, people may depend on their devices to store and retrieve information. This can weaken memory and reduce the depth of understanding.
 
-Is the output reliable? Who is responsible when it's wrong? Does it flatten nuance in ways that look like knowledge but aren't? Does it encode the biases of its creators without acknowledging them? Can we trust something that cannot tell us, in any meaningful sense, *why* it said what it said?
+Mobile phones can also be a source of distraction. Notifications, social media, and entertainment apps can interrupt concentration and reduce productivity. This makes it harder to engage in deep thinking and problem-solving, which are essential components of expertise
 
-These are the right questions. And the Wikipedia case suggests they don't have clean answers.
-
-What Wikipedia showed is that disruptions to expert authority are not simply liberating or simply dangerous—they are both, and the balance shifts depending on what you're looking for, who you are, and what you already know. A Wikipedia article on a well-documented scientific topic is often genuinely reliable. An article on a contested political event, or a figure from a marginalized community, or a topic outside the dominant culture of its editors, is often not.
-
-AI presents the same asymmetry at greater scale and higher speed. Understanding what Wikipedia got right, what it got wrong, and *why*—not as a story of technology, but as a story of social power, epistemic trust, and the politics of knowledge—is essential preparation for navigating what comes next.
 
 
 ## How I Used AI for This Essay
