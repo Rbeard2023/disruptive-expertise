@@ -66,17 +66,12 @@ This shift influenced social skills and communication styles, requiring individu
 %}
 
 
-## The Critics Respond
+## The Rise of Smartphones and Digital Skills
 
-The backlash was immediate and, in some quarters, never stopped.
+The transformation of mobile phones into smartphones marked an even greater shift in expertise. Companies like Apple and Samsung played a major role in developing devices that combined communication with advanced computing capabilities. Smartphones introduced features such as internet browsing, email, applications, cameras, and navigation systems.
 
-Robert McHenry, a former editor-in-chief of the *Encyclopaedia Britannica*, published a widely-cited essay in 2004 called "The Faith-Based Encyclopedia." His argument was withering: Wikipedia's quality was not just unpredictable but *unknowable*. Because any article could be edited at any moment by anyone, a reader had no way of knowing whether what they were reading had been there for three years or three minutes. He compared using Wikipedia to leaving one's health in the hands of a randomly chosen passerby. A user "may or may not be informed, but is, in any case, not accountable and not qualifiable."
+These innovations turned mobile phones into portable computers, capable of performing tasks that once required multiple devices. As a result, users had to develop new skills to navigate this complex digital environment. Digital literacy—understanding how to use apps, manage data, and interact with online systems—became an essential part of modern expertise.
 
-{% include typography/pullquote.html text="\"The user who visits Wikipedia to learn about some subject, to confirm some piece of information, or to find a source for some assertion is rather in the position of a visitor to a public restroom. It may be obviously dirty, so that he knows to exercise great care, or it may seem fairly clean, yet still be contaminated in ways that are not immediately apparent.\" — Robert McHenry, 2004" %}
-
-Andrew Keen's *The Cult of the Amateur* (2007) raised the stakes further. Keen argued that Wikipedia was not democratizing knowledge but *destroying* it—replacing the careful, slow work of expertise with the instant, unreliable noise of crowd opinion. "The digital revolution's democratic ideology," he wrote, "is undermining cultural standards and belittling real knowledge."
-
-These critiques were not wrong, exactly. They were describing real risks. But they were also defending a model of expertise that had its own exclusions and blind spots—ones that Wikipedia's critics were often slow to acknowledge.
 
 
 ## The Famous Test
