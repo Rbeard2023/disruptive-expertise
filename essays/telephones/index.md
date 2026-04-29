@@ -37,9 +37,8 @@ The introduction of mobile phones removed this barrier, allowing individuals to 
   text=britannica_text
 %}
 
-Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
 
-The question Nupedia's failure raised was not "how do we do expert review faster?" It was more radical: what if expert review is the wrong mechanism entirely?
+
 
 
 {% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
