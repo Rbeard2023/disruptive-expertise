@@ -101,14 +101,12 @@ As a result, expertise is becoming more dynamic and self-directed. Individuals c
 
 
 
-## What Actually Happened
+## Transformation of the Workplace
 
 {% capture aftermath_text %}
-By the time critics had fully articulated their concerns, Wikipedia had already transformed the information landscape.
+Mobile phones have also transformed the workplace. The ability to communicate and access information from anywhere has made remote work possible and, in many cases, common. Employees can attend virtual meetings, send emails, and collaborate with colleagues across the globe without being physically present in an office.
 
-The *Encyclopaedia Britannica* published its final print edition in 2012 after 244 years. The market for expensive, multi-volume reference works had simply collapsed. Britannica pivoted to digital subscription services, but it was adapting to a world Wikipedia had already remade.
-
-Wikipedia itself was not static. Its reliability improved substantially over the years as the community developed more sophisticated quality-control mechanisms. Scholars like Joseph Reagle, in *Good Faith Collaboration* (2010), documented how Wikipedia had developed a complex culture of norms, arbitration processes, and editorial standards—different in form from traditional peer review, but not entirely unlike it in function.
+This has increased flexibility but also introduced new challenges. Workers must be able to manage their time effectively, stay organized, and maintain productivity in a less structured environment. Expertise in the modern workplace now includes digital communication skills, adaptability, and the ability to use various mobile tools and applications.
 
 {% endcapture %}
 
