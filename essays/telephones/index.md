@@ -43,13 +43,12 @@ The introduction of mobile phones removed this barrier, allowing individuals to 
 
 {% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
 
-## Anyone Can Edit
+## Early Mobile Phones and the Shift in Communication
 
-Ward Cunningham had invented the "wiki" in 1995—a website that any visitor could edit directly, with changes appearing instantly. The concept was designed for software developers sharing documentation. When Larry Sanger suggested in January 2001 that Nupedia try a wiki as a "feeder" system for rough drafts, Wales agreed. Within days the wiki had more activity than Nupedia had seen in months.
+In the early years, mobile phones were large, expensive, and limited in function. They were primarily used by business professionals who needed to communicate while traveling. Despite their limitations, these early devices introduced a major shift: communication was no longer tied to a specific place. Before mobile phones, people relied on landlines, which required them to be physically present in a particular location.
 
-The key insight was almost counterintuitive: the *lack* of a barrier to entry was a feature, not a bug. Removing the need for credentials meant removing the bottleneck. Wikipedia's growth was explosive precisely because it was unguarded. Anyone with knowledge—formal or informal, credentialed or accumulated through decades of lived experience—could contribute.
+The introduction of mobile phones removed this barrier, allowing individuals to stay connected regardless of where they were. This mobility began to reshape professional expectations. Workers were expected to be more accessible, responsive, and flexible. As a result, expertise began to include the ability to manage communication efficiently and respond quickly to changing situations.
 
-This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
 
 {% include scrollybox/bg.html
   image-path="images/market-view.jpg"
