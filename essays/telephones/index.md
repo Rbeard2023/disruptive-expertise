@@ -152,15 +152,12 @@ Mobile phones can also be a source of distraction. Notifications, social media, 
 
 
 
-## How I Used AI for This Essay
+## Privacy, Security, and Critical Thinking
 
-This essay was researched and written with the assistance of Claude, an AI assistant made by Anthropic.
+The widespread use of mobile phones has also raised concerns about privacy and security. As people rely more on their devices for personal and professional activities, they become more vulnerable to cyber threats such as hacking and data breaches.
 
-AI was useful for: generating an initial outline, suggesting relevant historical figures and events, and helping draft transitions between sections. I used it as a starting point—a well-read research assistant who could quickly surface names and dates and connections.
+This has created a need for expertise in cybersecurity and digital safety. Individuals must understand how to protect their information, use secure networks, and recognize potential risks. In addition, critical thinking has become more important than ever, as users must evaluate the reliability of the vast amount of information available online.
 
-AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or—in two cases—to not exist in the form described. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
-
-The deeper limitation: AI flattened the historiographic debates. When I asked it to explain "the significance of Wikipedia," it gave a confident, balanced-sounding answer that missed exactly the tensions and contradictions that make the history interesting. Historians argue. They disagree. They revise. AI tends to synthesize and harmonize. The most important intellectual work in this essay—deciding what the evidence actually *means*—was mine to do.
 
 ---
 
