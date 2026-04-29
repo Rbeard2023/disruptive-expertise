@@ -92,17 +92,13 @@ However, mobile phones have made it possible to access vast amounts of informati
 
 
 
-## What Critics Got Right
+## Impact on Education and Lifelong Learning
 
-Wikipedia's success did not resolve the question of reliability—it complicated it.
+This shift has had a profound impact on education. Students no longer rely solely on textbooks and teachers for information. Instead, they use mobile devices to supplement their learning, explore new topics, and collaborate with others. Online courses, educational apps, and digital resources have made learning more accessible than ever before.
 
-Research published throughout the 2000s and 2010s documented systematic problems. The "gender gap" was perhaps most striking: studies consistently found that fewer than fifteen percent of Wikipedia's editors were women, and that articles on topics associated with women and women's interests were systematically shorter, less sourced, and more likely to be flagged for deletion. Minority communities, non-Western knowledge traditions, and contested scientific topics faced similar structural underrepresentation.
 
-Clay Shirky, in *Here Comes Everybody* (2008), celebrated Wikipedia as proof that "organizing without organizations" could solve problems that traditional institutions couldn't. But the scholars who studied Wikipedia's actual editing communities found something more complicated: a self-selected group of predominantly white, Western, technically literate, male editors who imported their own assumptions about what counted as "notable" and "verifiable" just as surely as the Britannica's credentialed experts had.
+As a result, expertise is becoming more dynamic and self-directed. Individuals can develop skills at their own pace, pursue their interests, and continuously update their knowledge. This has blurred the line between formal and informal education, making lifelong learning an essential part of modern expertise.
 
-The crowd, it turned out, was not neutral. It was a crowd.
-
-Steven Shapin's *A Social History of Truth* (1994) helps illuminate why this should not have been surprising. Shapin showed that even in seventeenth-century scientific communities, what counted as reliable knowledge was never purely a matter of evidence—it depended on who was speaking, what social position they occupied, and who trusted them. Wikipedia changed the *form* of those social negotiations without eliminating them. The question of whose knowledge counted was still being answered, just by different mechanisms: edit wars, administrator decisions, notability debates, and the informal hierarchies of a volunteer community.
 
 
 ## What Actually Happened
