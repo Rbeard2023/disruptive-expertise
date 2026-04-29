@@ -119,9 +119,12 @@ This has increased flexibility but also introduced new challenges. Workers must 
 %}
 
 
-## The Deeper Question
+## Creation of New Careers and Industries
 
-What Wikipedia actually disrupted was not just the encyclopedia business. It disrupted a centuries-old assumption about the relationship between *credentials* and *knowledge*—the idea that reliable information requires not just evidence but a certified expert to vouch for it.
+Mobile phones have enabled the rise of entirely new industries and job roles. App development, social media management, digital marketing, and content creation are just a few examples of careers that have emerged as a result of mobile technology.
+
+These fields require specialized knowledge and skills that did not exist before the widespread use of smartphones. As technology continues to evolve, new forms of expertise will continue to emerge, reflecting the changing demands of the digital world.
+
 
 {% include scrollybox/bg.html
   image-path="images/printing-press.jpg"
