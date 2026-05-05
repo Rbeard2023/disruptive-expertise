@@ -143,7 +143,6 @@ Expertise is no longer confined to a specific location or community; it is part 
 
 
 
-
 ## Challenges: Overreliance and Distraction
 
 Despite these benefits, the impact of mobile phones on expertise is not entirely positive. The constant availability of information can lead to overreliance on technology. Instead of remembering important details, people may depend on their devices to store and retrieve information. This can weaken memory and reduce the depth of understanding.
