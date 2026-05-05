@@ -1,7 +1,7 @@
 ---
 title: "The Invention of Mobile Phones Changed Expertise"
 layout: scrollstory
-header-image: images/jimmy-wales-imac.jpg
+header-image: images/download(1).jpeg
 thumbnail: images/jimmy-wales-imac.jpg
 summary: When moblie phones came out it changed the way people did things. It made a big change on how someone can live their everyday life.
 header-title: The Invention of Mobile Phones 
