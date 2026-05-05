@@ -42,6 +42,7 @@ The introduction of mobile phones removed this barrier, allowing individuals to 
 
 
 
+{% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
 
 ## Early Mobile Phones and the Shift in Communication
 
