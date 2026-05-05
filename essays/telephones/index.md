@@ -86,7 +86,7 @@ However, mobile phones have made it possible to access vast amounts of informati
   height="85vh"
   background-position="center top"
   box-align="left"
-  text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
+  text=
 %}
 
 
