@@ -138,8 +138,8 @@ Another important aspect of mobile phones is their role in global connectivity. 
 
 Expertise is no longer confined to a specific location or community; it is part of a global network of knowledge. This interconnectedness has made it easier for people to solve complex problems, develop new technologies, and address global challenges.
 
-"
-%}
+
+
 
 
 
