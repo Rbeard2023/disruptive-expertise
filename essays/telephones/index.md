@@ -85,7 +85,7 @@ However, mobile phones have made it possible to access vast amounts of informati
   text=
 %}
 {% include images/jumbotron.html
-  image-path="images/head-to-head.webp"
+  image-path="images/images(1).jpeg"
   height="85vh"
   background-position="center top"
   box-align="left"
